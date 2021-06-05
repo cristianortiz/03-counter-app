@@ -4,7 +4,7 @@ import PropTypes from "prop-types";
 const FirstApp = ({ hi2, default_prop }) => {
   const hi = { firstname: "jon", age: 34 };
 
-  console.log(hi2);
+  //console.log(hi2);
 
   return (
     <>
